@@ -1,0 +1,1 @@
+This package contains code that does not comply with the SOLID principles. 
